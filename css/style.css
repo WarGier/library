@@ -1,0 +1,27 @@
+.main {
+  width: 90%;
+  margin: 0 auto;
+  padding: 5em;
+}
+
+.main h1 {
+  font-size: 3em;
+}
+
+.main p {
+  font-size: 1em;
+  font-weight: 300;
+  width: 80%;
+  margin-top: 16px;
+}
+
+.buttons {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 54px;
+  margin-bottom: 12px;
+}
+
+.thead-light {
+  background-color: #eee;
+}
